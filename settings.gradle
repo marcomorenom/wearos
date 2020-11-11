@@ -1,0 +1,3 @@
+include ':app:adminapp'
+include ':app'
+rootProject.name = "Wear"
